@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific Plotting"
+  short_description: "Create clean, repeatable publication figures"
+  default_prompt: "Use $scientific-plotting to turn this data into a clean publication-quality figure."
